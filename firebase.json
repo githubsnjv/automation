@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "naatesh1",
+    "public": "dist/manager_finalyr",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
