@@ -27,6 +27,8 @@ export class AnalyticsComponent implements OnInit {
     colour: new FormControl(''),
     weight: new FormControl(''),
     received_date: new FormControl(''),
+    dia: new FormControl(''),
+    gg: new FormControl('')
 
   });
 
